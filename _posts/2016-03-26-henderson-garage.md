@@ -5,7 +5,7 @@ date:   2016-03-26 23:24:00
 categories: lock
 tags: euro lock
 image: /images/placeholder.jpg
-picked: false
+picked: true
 number: 23
 ---
 
@@ -22,5 +22,7 @@ number: 23
 Garage Cylinder from Henderson.
 
 ### Methods
+
+- SPP'd, raked (snake) first to false set
 
 ### Notes
