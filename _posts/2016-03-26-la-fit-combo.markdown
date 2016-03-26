@@ -3,7 +3,7 @@ layout: post
 title:  "La Fitness Combination Lock"
 date:   2016-03-26 16:52:07
 categories: lock
-tags: lock
+tags: combo
 image: /images/lock-1.png
 picked: true
 number: 1
