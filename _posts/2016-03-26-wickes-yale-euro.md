@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yale Euro Standard"
+title:  "Yale Euro Standard Security"
 date:   2016-03-26 22:29:07
 categories: lock
 tags: euro
