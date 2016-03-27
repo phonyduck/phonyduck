@@ -28,3 +28,5 @@ Securit Antisnap Euro Cylinder from Ebay
 - SPP'd
 
 ### Notes
+
+- This thing raked open really fast. What's the point of the fancy Antisnap feature then?
