@@ -5,7 +5,7 @@ date:   2016-03-26 23:41:00
 categories: lock
 tags: euro ebay
 image: /images/placeholder.jpg
-picked: false
+picked: true
 number: 35
 ---
 
@@ -22,5 +22,9 @@ number: 35
 Securit Antisnap Euro Cylinder from Ebay
 
 ### Methods
+
+- raked (city)
+- raked (bogota)
+- SPP'd
 
 ### Notes
