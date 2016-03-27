@@ -4,7 +4,7 @@ title:  "Noname Golden Shiny"
 date:   2016-03-26 23:02:00
 categories: lock
 tags: euro ebay
-image: /images/placeholder.jpg
+image: /images/lock-18.png
 picked: false
 number: 18
 ---

@@ -4,7 +4,7 @@ title:  "MadBob 6Pin Euro Cutaway"
 date:   2016-03-26 22:49:00
 categories: lock
 tags: euro
-image: /images/placeholder.jpg
+image: /images/lock-14.png
 picked: false
 number: 14
 ---
@@ -25,4 +25,8 @@ Madbob 6Pin Cutaway Lock. This is an excellent practice lock - machined with far
 
 ### Methods
 
+- SPP'd with 2 pins
+
 ### Notes
+
+- tough keyway, needs a deep hook

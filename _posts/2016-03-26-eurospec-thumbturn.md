@@ -4,7 +4,7 @@ title:  "Eurospec Thumbturn"
 date:   2016-03-26 23:22:00
 categories: lock
 tags: euro ebay
-image: /images/placeholder.jpg
+image: /images/lock-22.png
 picked: false
 number: 22
 ---

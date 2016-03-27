@@ -4,7 +4,7 @@ title:  "11pin Cutaway Dimple"
 date:   2016-03-26 22:44:00
 categories: lock
 tags: lock
-image: /images/placeholder.jpg
+image: /images/lock-13.png
 picked: false
 number: 13
 ---

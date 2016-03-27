@@ -4,7 +4,7 @@ title:  "Securit Antisnap 35"
 date:   2016-03-26 23:41:00
 categories: lock
 tags: euro ebay
-image: /images/placeholder.jpg
+image: /images/lock-35.png
 picked: true
 number: 35
 ---

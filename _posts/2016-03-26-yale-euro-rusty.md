@@ -4,7 +4,7 @@ title:  "Yale Euro Rusty"
 date:   2016-03-26 23:26:00
 categories: lock
 tags: euro ebay
-image: /images/placeholder.jpg
+image: /images/lock-25.png
 picked: false
 number: 25
 ---

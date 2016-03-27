@@ -4,7 +4,7 @@ title:  "Henderson Garage"
 date:   2016-03-26 23:24:00
 categories: lock
 tags: euro lock
-image: /images/placeholder.jpg
+image: /images/lock-23.png
 picked: true
 number: 23
 ---

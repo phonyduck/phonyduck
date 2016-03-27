@@ -4,7 +4,7 @@ title:  "Eurospec MP5"
 date:   2016-03-26 23:38:00
 categories: lock
 tags: euro ebay
-image: /images/placeholder.jpg
+image: /images/lock-32.png
 picked: false
 number: 32
 ---
