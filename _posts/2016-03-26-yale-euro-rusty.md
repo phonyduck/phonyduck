@@ -24,3 +24,5 @@ Rusty Yale Euro Cylinder from Ebay
 ### Methods
 
 ### Notes
+
+- short side only turns CCW with key, long side turns both ways
