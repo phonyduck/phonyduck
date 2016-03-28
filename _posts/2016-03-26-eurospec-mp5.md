@@ -5,7 +5,7 @@ date:   2016-03-26 23:38:00
 categories: lock
 tags: euro ebay
 image: /images/lock-32.png
-picked: false
+picked: true
 number: 32
 ---
 
@@ -22,5 +22,7 @@ number: 32
 E*S Euro Cylinde from ebay. 5-pin
 
 ### Methods
+
+- short side: raked (city, snake)
 
 ### Notes
