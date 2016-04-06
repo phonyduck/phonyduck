@@ -24,5 +24,10 @@ Securit Antisnap Euro Cylinder from Ebay
 ### Methods
 
 - raked (city)
+- raked to false set, then SPP - quickest way
+- SPP'd
 
 ### Notes
+
+- the two sides are fairly different, one resists a lot more
+- On SPP without raking, there is a lot of back and forth, counter rotation as well.
