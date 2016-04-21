@@ -30,3 +30,4 @@ Madbob 6Pin Cutaway Lock. This is an excellent practice lock - machined with far
 ### Notes
 
 - tough keyway, needs a deep hook
+- I filled it up with the pins from the wickes yale euro

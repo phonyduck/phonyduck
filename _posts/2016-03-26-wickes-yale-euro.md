@@ -28,3 +28,4 @@ Yale Euro Cylinder from Wickes. Labelled "Standard Security", that seems to mean
 ### Notes
 
 - OMG - Yale keyways are impossible!
+- I gutted on side to fill the MadBob cutaway with the same bitting
